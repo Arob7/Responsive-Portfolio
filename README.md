@@ -1,2 +1,2 @@
 # Responsive-Portfolio
-Create responsive design
+Created a responsive design portfolio that includes bio and contact information.
