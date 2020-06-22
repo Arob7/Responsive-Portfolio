@@ -1,5 +1,26 @@
 body {
-    background-image: url("https://media.istockphoto.com/vectors/graffiti-background-seamless-pattern-vector-id531855244");
+    background-image: url("https://wallpaper-house.com/data/out/5/wallpaper2you_58307.jpg");
     background-color: coral;
+    background-repeat: round;
 }
 
+.bio {
+    text-align: center;
+}
+
+a {
+    color: whitesmoke;
+    text-align: center;
+}
+
+.portfolio{
+  color: white;  
+}
+
+/* img {
+    max-width: 100%;
+} */
+
+
+
+                
