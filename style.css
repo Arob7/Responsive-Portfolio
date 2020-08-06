@@ -17,6 +17,7 @@ a {
 
 .portfolio {
   color: white;
+  font-weight: bold;
 }
 
 .social-media {
@@ -34,4 +35,15 @@ a {
   margin-left: auto;
   margin-right: auto;
   width: 35%;
+}
+
+.btn-div {
+  display: inline-block;
+}
+
+.project-head {
+  color: whitesmoke;
+  font-size: 35px;
+  text-align: center;
+  font-weight: bold;
 }
