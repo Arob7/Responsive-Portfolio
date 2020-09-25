@@ -1,5 +1,14 @@
+/* body {
+  background-image: url("https://docs.parrotlinux.org/img/developer-background.jpg");
+  background-color: wheat;
+  background-repeat: round;
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 25px;
+} */
 body {
-  background-image: url("https://wallpaperplay.com/walls/full/1/b/e/63362.jpg");
+  background-image: url("https://docs.parrotlinux.org/img/developer-background.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
   background-color: wheat;
   background-repeat: round;
   font-family: "Josefin Sans", sans-serif;
